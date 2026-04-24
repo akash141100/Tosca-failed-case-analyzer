@@ -1,4 +1,4 @@
-# GenAI Quality Engineering Portfolio
+# GenAI Engineering Portfolio
 **By Akash Raj** | Project Enginner(GenAI Engineer)
 
 Welcome to my Quality Engineering Generative AI portfolio. This repository contains two Proof-of-Concept (POC) applications
